@@ -1,8 +1,8 @@
 {
-  "name": "react-demo",
+  "name": "react-demo2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aleenl.github.io/React-demo/build",
+  "homepage": "https://aleenl.github.io/React-demo2/build",
   "dependencies": {
     "normalize.css": "^6.0.0",
     "react": "^15.5.4",
